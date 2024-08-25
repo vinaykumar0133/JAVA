@@ -9,6 +9,7 @@ public class AddNumbers {
         int a=sc.nextInt();
         int b=sc.nextInt();
         System.out.printf("sum of two numbers is %d",a+b);
+        sc.close();
 
     }
 }

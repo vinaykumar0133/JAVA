@@ -93,5 +93,7 @@ public class AdvancePatterns {
 
         }
 
+        sc.close();
+
     }
 }

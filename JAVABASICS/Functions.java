@@ -22,7 +22,9 @@ public class Functions {
                 System.out.println("Negative numbers entered: "+negt);
                 return;
             }
+            scanner.close();
         }
+        
     }
     public static void main(String[] args) {
         enterNumbers();
